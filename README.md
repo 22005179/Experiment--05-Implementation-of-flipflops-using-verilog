@@ -203,8 +203,10 @@ nand (Qbar,R,Q);
 endmodule
 
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+
+Developed by: ABINAYA K
+
+RegisterNumber:22005179  
 
 
 
@@ -215,30 +217,39 @@ RegisterNumber:
  RTL LOGIC FOR FLIPFLOPS 
 
 SR FLIP-FLOP:
+
 ![Screenshot (32)](https://user-images.githubusercontent.com/121557762/212927804-06d81a55-f9c7-4150-bcb3-d2fcd0af3896.png)
 
 JK FLIP-FLOP:
+
 ![Screenshot (33)](https://user-images.githubusercontent.com/121557762/212928243-5c2187c3-bead-417a-9583-12b13935f082.png)
 
 D FLIP-FLOP:
+
 ![Screenshot (34)](https://user-images.githubusercontent.com/121557762/212928408-6b446ccf-27f0-4d69-9cf6-900828399d4f.png)
 
 T FLIP-FLOP:
+
 ![Screenshot (35)](https://user-images.githubusercontent.com/121557762/212928603-6c45817f-3137-4d0a-9797-749083b4b052.png)
 
 
  TIMING DIGRAMS FOR FLIP FLOPS 
 
 SR FLIP-FLOP:
+
 ![Screenshot (36)](https://user-images.githubusercontent.com/121557762/212929256-d1e8d911-831c-45cc-a664-8d82a030fb22.png)
 
 JK FLIP-FLOP:
+
 ![Screenshot (37)](https://user-images.githubusercontent.com/121557762/212929432-7da67dd3-b4a5-421b-b4e2-1c3f9f4f52b3.png)
 
 D FLIP-FLOP:
+
+
 ![Screenshot (38)](https://user-images.githubusercontent.com/121557762/212929545-1be294e0-bba7-4a4b-98a0-ef9b3fbf55c7.png)
 
 T FLIP-FLOP:
+
 ![Screenshot (39)](https://user-images.githubusercontent.com/121557762/212929707-491b699b-426d-4acd-ab34-cdd75624ac7a.png)
 
  RESULTS 
